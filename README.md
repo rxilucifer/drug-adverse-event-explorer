@@ -5,6 +5,14 @@ and shows the 15 most reported side effects in a chart.
 
 ![Chart](images/top_reactions.png)
 
+## Drug comparison
+
+![Comparison](images/drug_comparison.png)
+
+Comparing ibuprofen and acetaminophen. Each bar shows the side effect as a
+percentage of that drug's own reports, so drugs with more reports are not
+unfairly compared.
+
 top reported side effects for ibuprofen.
 
 ## How to use it
@@ -19,3 +27,11 @@ prove the drug caused them.
 
 ## What I learned
 I learned how to get real data from the FDA using Python and turn it into a chart. I also learned how to put a project on GitHub. I learned that these reports cannot prove a drug caused a side effect.
+
+## Drug comparison
+
+![Comparison](images/drug_comparison.png)
+
+Comparing ibuprofen and acetaminophen. Each bar shows the side effect as a
+percentage of that drug's own reports, so drugs with more reports are not
+unfairly compared.
