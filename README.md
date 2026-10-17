@@ -3,7 +3,8 @@
 This program gets side-effect reports for a drug from the FDA
 and shows the 15 most reported side effects in a chart.
 
-![Chart](top_reactions.png)
+![Chart](images/top_reactions.png)
+
 top reported side effects for ibuprofen.
 
 ## How to use it
