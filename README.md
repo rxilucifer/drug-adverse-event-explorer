@@ -4,6 +4,7 @@ This program gets side-effect reports for a drug from the FDA
 and shows the 15 most reported side effects in a chart.
 
 ![Chart](top_reactions.png)
+top reported side effects for ibuprofen.
 
 ## How to use it
 1. Download this project
@@ -16,4 +17,4 @@ These numbers show side effects that people *reported*. They do not
 prove the drug caused them.
 
 ## What I learned
-(Write 2 or 3 sentences about what you learned in your own words.)
+I learned how to get real data from the FDA using Python and turn it into a chart. I also learned how to put a project on GitHub. I learned that these reports cannot prove a drug caused a side effect.
